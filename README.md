@@ -65,4 +65,5 @@
 우리가 웃을 수 있는 곳을<br>
 </center>
 
----
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8037DE,50:F9767D,100:FFF9AD&height=300&section=footer&fontSize=60&reversal=true&fontColor=ffffff&animation=fadeIn)
